@@ -33,6 +33,9 @@ Current mirrors are the backbone of **analog MOSFET circuits**, enabling precise
 - Ideal for **low-power, low-voltage applications**.
 - **Challenge:** Increased layout complexity due to multiple MOSFETs. 🏗️
 
+<img width="940" height="229" alt="Screenshot 2025-08-24 020505" src="https://github.com/user-attachments/assets/c59638d4-2443-43e7-8c72-b469d5584c6e" />
+
+
 ---
 
 ## 📊 **Transient Analysis**
