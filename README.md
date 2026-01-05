@@ -7,7 +7,7 @@ Recently, I completed an in-depth analysis of **MOSFET-based Current Mirrors** u
  **Cascode Current Mirror**
  **Low Voltage Cascode Current Mirror**
 
-Current mirrors are the backbone of **analog MOSFET circuits**, enabling precise current replication with minimal power loss—crucial for efficient circuit design! ⚡
+Current mirrors are the backbone of **analog MOSFET circuits**, enabling precise current replication with minimal power loss—crucial for efficient circuit design! 
 
 ---
 
